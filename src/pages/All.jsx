@@ -9,22 +9,22 @@ const All = () => {
     return (
         <div className="flex justify-between flex-wrap items-center">
             <div className='w-[31%] mb-8'>
-                <img src={img1} alt="" />
+                <img src={img1} alt="img" />
             </div>
             <div className='w-[31%] mb-8'>
-                <img src={img2} alt="" />
+                <img src={img2} alt="img" />
             </div>
             <div className='w-[31%] mb-8'>
-                <img src={img3} alt="" />
+                <img src={img3} alt="img" />
             </div>
             <div className='w-[31%] mb-8'>
-                <img src={img4} alt="" />
+                <img src={img4} alt="img" />
             </div>
             <div className='w-[31%] mb-8'>
-                <img src={img5} alt="" />
+                <img src={img5} alt="img" />
             </div>
             <div className='w-[31%] mb-8'>
-                <img src={img6} alt="" />
+                <img src={img6} alt="img" />
             </div>
             
         </div>

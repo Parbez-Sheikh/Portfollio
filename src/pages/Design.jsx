@@ -9,15 +9,15 @@ const Design = () => {
     return (
         <div className="flex justify-between flex-wrap items-center">
             <div className='w-[31%] mb-8'>
-                <img src={img1} alt="" />
+                <img src={img1} alt="img" />
             </div>
           
             <div className='w-[31%] mb-8'>
-                <img src={img3} alt="" />
+                <img src={img3} alt="img" />
             </div>
            
             <div className='w-[31%] mb-8'>
-                <img src={img5} alt="" />
+                <img src={img5} alt="img" />
             </div>
            
             

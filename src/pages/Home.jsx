@@ -102,12 +102,12 @@ const Home = () => {
                  <div className=" md:flex justify-between md:py-8">
                     <div className=" w-full md:w-[50%] lg:w-[65] md:pt-40 ">
                         <h2 className=" text-4xl md:text-4xl lg:text-6xl font-bold tracking-wide text-white  text-center">Parbez Sheikh</h2>
-                        <marquee behavior="" direction=""><p className=" text-2xl tracking-wide lg:text-3xl py-2 font-bold text-white  text-center">Front end developer with react.js</p></marquee>
+                        <marquee ><p className=" text-2xl tracking-wide lg:text-3xl py-2 font-bold text-white  text-center">Front end developer with react.js</p></marquee>
                         
                     </div>
 
                     <div className=" w-[80%] mx-auto md:w-[40%] lg:w-[35%] overflow-hidden h-[450px] md:h-[400px] lg:h-[500px]  rounded-full">
-                    <div className="bg-[url('./public/IMG_20240212_204539_HDR.jpg')] py-[300px] bg-center bg-no-repeat bg-cover "> </div>
+                    <div className="bg-[url('IMG_20240212_204539_HDR.jpg')] py-[300px] bg-center bg-no-repeat bg-cover "> </div>
                     </div>
 
                  </div>

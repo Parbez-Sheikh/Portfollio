@@ -3,7 +3,7 @@ import { Link, NavLink, Outlet } from "react-router-dom";
 
 const Portfollio = () => {
     const Items = [
-        { name: 'All', link: '/portfolio' },
+        { name: 'All', link: '/portfolio/' },
         { name: 'Brand', link: '/portfolio/brand' },
         { name: 'Design', link: '/portfolio/design' },
         { name: 'Photo', link: '/portfolio/photo' },

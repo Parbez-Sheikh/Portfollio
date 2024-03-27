@@ -36,7 +36,7 @@ function App() {
     element:<Portfollio></Portfollio>,
     children:[
       {
-        path:'/portfolio',
+        path:'/portfolio/',
         element:<All></All>,
 
       },

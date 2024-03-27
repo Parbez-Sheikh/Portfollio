@@ -23,7 +23,7 @@ const About = () => {
 
                 <div className=" md:flex justify-between py-20 ">
                     <div className="w-[80%] md:w-[35%] mx-auto shadow-inner rounded-lg shadow-gray-300 ">
-                        <img className="rounded-lg" src="../../public/parbez.jpg" alt="" />
+                        <img className="rounded-lg" src="/parbez.jpg" alt="" />
                     </div>
                     <div className=" w-[80%] md:w-[55%] ">
                         <h3 className="text-[#087f5b]  text-2xl tracking-wide font-semibold">Who am I ?</h3>

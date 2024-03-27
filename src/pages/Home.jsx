@@ -6,6 +6,7 @@ import { useState } from "react";
 import { RxCross1 } from "react-icons/rx";
 
 
+
 const Home = () => {
 
 
@@ -107,7 +108,7 @@ const Home = () => {
                     </div>
 
                     <div className=" w-[80%] mx-auto md:w-[40%] lg:w-[35%] overflow-hidden h-[450px] md:h-[400px] lg:h-[500px]  rounded-full">
-                    <div className="bg-[url('IMG_20240212_204539_HDR.jpg')] py-[300px] bg-center bg-no-repeat bg-cover "> </div>
+                    <div className="bg-[url('../public/IMG_20240212_204539_HDR.jpg')] py-[300px] bg-center bg-no-repeat bg-cover "> </div>
                     </div>
 
                  </div>
